@@ -81,7 +81,8 @@ _R_: A partir de la información que se ha aprendido se puede inferir que la gra
 ## Uniprot
 
 ### P.5 ¿Describa a manera general la información biológica que puede obtener en UNIPROT?.
-Uniprot es una base de datos correspondiente de secuencias de proteínas e información funcional  adicional de ellas, derivadas de proyectos de secuenciación de genomas, en el cual al acceder a las bases de uniprot se puede obtener información de nombres de proteínas u genes, funciones, actividades catalíticas,residuos catalíticos, ubicaciones subcelulares, dominios, sitios significativos, formas  variantes de proteínas provocadas por variación genética, entre otras más informaciones:
+
+_R_: Uniprot es una base de datos correspondiente de secuencias de proteínas e información funcional  adicional de ellas, derivadas de proyectos de secuenciación de genomas, en el cual al acceder a las bases de uniprot se puede obtener información de nombres de proteínas u genes, funciones, actividades catalíticas,residuos catalíticos, ubicaciones subcelulares, dominios, sitios significativos, formas  variantes de proteínas provocadas por variación genética, entre otras más informaciones:
 + Es una base de datos que comparada secuencias de proteínas
 
 + Provee anotación detallada de secuencias biológicas, sean estas; estructuras, función, clasificación de familias de proteínas, dominios estructurales, sitios catalíticos, cofactores, vías metabólicas, entre otros.
@@ -281,7 +282,7 @@ _R_: Prosite entrega información que describen dominios de proteínas, familias
 
 P.13 Incorpore a su lista las características de las siguientes proteínas representantes de las familias.
 
-Glutathion-s transferases: 1AGS(cadena A): Posee 2 dominios GST_NTER y GST_CTER, estas proteinas están involucradas en la desintoxicación de compuestos xenobióticos y en la biosíntesis de metabolitos importantes. Existen dos superfamilias distintas de isoenzimas GST. La superfamilia más grande comprende enzimas dímeras citosólicas o solubles que están involucradas principalmente, pero no exclusivamente, en la biotransformación de xenobióticos y endobióticos tóxicos. La otra superfamilia está compuesta de proteínas microsómicas que participan principalmente en el metabolismo del ácido araquidónico. Las GST microsómicas, agrupadas juntas como una entidad separada, se denominan colectivamente MAPEG, designando proteínas asociadas a la membrana en el metabolismo de los eicosanoides y el glutatión  
+_R_: Glutathion-s transferases: 1AGS(cadena A): Posee 2 dominios GST_NTER y GST_CTER, estas proteinas están involucradas en la desintoxicación de compuestos xenobióticos y en la biosíntesis de metabolitos importantes. Existen dos superfamilias distintas de isoenzimas GST. La superfamilia más grande comprende enzimas dímeras citosólicas o solubles que están involucradas principalmente, pero no exclusivamente, en la biotransformación de xenobióticos y endobióticos tóxicos. La otra superfamilia está compuesta de proteínas microsómicas que participan principalmente en el metabolismo del ácido araquidónico. Las GST microsómicas, agrupadas juntas como una entidad separada, se denominan colectivamente MAPEG, designando proteínas asociadas a la membrana en el metabolismo de los eicosanoides y el glutatión  
 
 G-proteins: 1AGP(cadena A): Posee un dominio llamado RAS(pequeño GTPase Ras) las cuales forman una superfamilia independiente dentro de la clase más grande de hidrolasas de GTP reguladoras. Esta superfamilia contiene proteínas que controlan una gran cantidad de procesos importantes y poseen un dominio de unión a GTP común, estructuralmente preservado.
 
@@ -312,6 +313,7 @@ _R_: La 1AGP  pertenece a la familia RAS. Todos los miembros de la familia de pr
 La 1AGS pertenece a la familia de Glutathione S-transferase, conocidas anteriormente como ligandinas , comprenden una familia de isozimas metabólicas de fase II eucariotas y procariotas ,mejor conocidas por su capacidad para catalizar la conjugación de la forma reducida de glutatión (GSH) a sustratos xenobióticos con el objetivo de la desintoxicación.
 
 ###  informe el nombre de la familia, dominios y al menos una porción del logo que define cada una de las familias 
+_R_:
 
 Q99895
 Family: Trypsin (PF00089)
@@ -374,6 +376,7 @@ Logo: http://pfam.xfam.org/family/Ras#tabview=tab4
 # InterPro
 
 ###  Para cada proteína, vaya a la sección “Detailed signature matches”. Registre los patro- nes/familias identificadas por InterPro para cada una de las secuencias. (PISTA: Si pasa el mouse sobre cada fila con información en esta sección, se expandirá una ventana con el nombre completo del motivo/familia y la base de datos de donde proviene.
+
 _R_: Según la base de datos de interpro se encontró las siguientes características de las proteínas nombradas anteriormente:  
 3OTJ (Cationic Trypsin): Pertenece a la familia de chymotrypsin, Peptidase S1A
 y posee 1 dominio de tripsina. 
