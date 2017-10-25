@@ -445,23 +445,34 @@ _R_:  Aparte de las bases de datos ya mencionadas se encuentra CDD (Conserved Pr
 
 # HMMER
 
-P.23 La información obtenida para Pfam y Prosite, InterPro y HMMER, ¿corresponde con aquella obtenida por usted desde esas bases de datos directamente en los puntos anteriores?
-P.24 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y aportan información para las proteínas que usted investigó? Nombre las bases de datos.
+### P.23 La información obtenida para Pfam y Prosite, InterPro y HMMER, ¿corresponde con aquella obtenida por usted desde esas bases de datos directamente en los puntos anteriores?
 
-P.25 ¿Son los resultados entregados equivalentes al buscar por código que por secuencia? P.26 ¿Que puede inferir de las relaciones entre estas proteínas con los resultados entregados?
-En el caso que Ud. deba que caracterizar una muestra problema,
-P.27 Genere una hipótesis que pueda resolver utilizando la información contenida en los diferentes sitios observados
-P.28 ¿Cuál programa o base de datos utilizaría?
+
+### P.24 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y aportan información para las proteínas que usted investigó? Nombre las bases de datos.
+
+
+### P.25 ¿Son los resultados entregados equivalentes al buscar por código que por secuencia?
+
+
+### P.26 ¿Que puede inferir de las relaciones entre estas proteínas con los resultados entregados? En el caso que Ud. deba que caracterizar una muestra problema,
+
+
+### P.27 Genere una hipótesis que pueda resolver utilizando la información contenida en los diferentes sitios observados
+
+
+### P.28 ¿Cuál programa o base de datos utilizaría?
 
 ## Tasas de mutaciones y caracterización funcional
 
-P.29 Utilizando las herramientas de este práctico compruebe que proteinas de baja distancia evolutiva entre ellas son reconocibles como miembros de una misma familia.
-P.30 Que sucederá al aumentar la distancia evolutiva entre estas proteinas, por ejemplo utilizando 20,30,40,50,60,70,80 y 90 unidades PAM, cambiará el porcentaje de identidad? el porcentaje de similitud?
-P31 ¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homo- lógos cercanos?
+### P.29 Utilizando las herramientas de este práctico compruebe que proteinas de baja distancia evolutiva entre ellas son reconocibles como miembros de una misma familia.
+
+### P.30 Que sucederá al aumentar la distancia evolutiva entre estas proteinas, por ejemplo utilizando 20,30,40,50,60,70,80 y 90 unidades PAM, cambiará el porcentaje de identidad? el porcentaje de similitud?
+
+### P31 ¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homo- lógos cercanos?
 
 ## Relación secuencia-función
 
-P.32 En base a sus resultados, ¿que relación debe existir entre la secuencia,estructura y la fun- ción?. Genere una hipótesis de trabajo.
+### P.32 En base a sus resultados, ¿que relación debe existir entre la secuencia,estructura y la fun- ción?. Genere una hipótesis de trabajo.
 _R_:
 En el concepto de la genómica se tenía que la divergencia era súper clara, 2 secuencias que tenían  bajo % de identidad  tenían un ancestro lejano  y a medida que mejoraba su score,  su % de identidad e-value iban acercándose evolutivamente, esas secuencias  y eso es porque la tasa de mutación  es super clara, es decir de generacion a generacion  van cambiando, en cambio en proteínas observamos que  el avance es mucho más lento, entonces esa divergencia no es tan obvia, porque uno dice quizas es importante la función  y ya vimos este este práctico que en el caso de las serine proteasas que la función no es tan clara, así mismo tampoco lo es  la actividad catalítica, entonces donde realmente empieza a ver la diferenciación en término de un estado de convergencia y divergencia en la proteína, ya vimos que no es tan solo la función o la actividad catalítica, sino que hay que ver el plegamiento que tiene la proteína, porque como es tan lento ese cambio, si eso se hubiera separado hace poco tiempo,  se esperaría que hubieran pocos cambios estructurales, como la estructura va cambiando más lentamente yo espero que estructuras similares  provengan de un ancestro similar y estructuras diferentes provengan de otros ancestros, entonces la forma de mirar a diferencia de la genómica que era el score que es idéntica la secuencia, aca no es tan clara, sino que en parte observamos que  la  estructura es importante, sin embargo durante el desarrollo del práctico nos dimos cuenta que en esta familia de proteínas están estas cosas llamadas dominios que son también conservados y el significado de estos dominios es que corresponden a patrones repetitivos de secuencias que son como una finball en la secuencia, son como las expresiones regulares de las proteínas, en el cual estos patrones, cada vez que aparecen ahí, empiezan a tener una función super especifica que cada vez que son útiles los va conservano la proteína, tal vez no el plegamiento, sino que sólo esa secuencia indica que este era útil por ABC motivo estabiliza a la proteína-estructura del sitio activo-le entrega área y superficie- le permite la unión- cualquier propiedad que le beneficie a la función, entonces lo empieza a mantener, si lo saco de ahí  a lo mejor esto se desaparece, pero si lo mantiene en el contexto   a lo mejor empieza a tener significado, si lo uno  con que la estructura evoluciona despacio  y la estructura
 
