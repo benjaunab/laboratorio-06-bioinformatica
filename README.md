@@ -312,7 +312,7 @@ _R_: Se clasifican según la familia, visualización de  múltiples alineaciones
 _R_: La 1AGP  pertenece a la familia RAS. Todos los miembros de la familia de proteínas Ras pertenecen a una clase de proteína llamada GTPasa pequeña , y están involucrados en la transmisión de señales dentro de las células.
 La 1AGS pertenece a la familia de Glutathione S-transferase, conocidas anteriormente como ligandinas , comprenden una familia de isozimas metabólicas de fase II eucariotas y procariotas ,mejor conocidas por su capacidad para catalizar la conjugación de la forma reducida de glutatión (GSH) a sustratos xenobióticos con el objetivo de la desintoxicación.
 
-###  informe el nombre de la familia, dominios y al menos una porción del logo que define cada una de las familias 
+### P.19 Informe el nombre de la familia, dominios y al menos una porción del logo que define cada una de las familias 
 _R_:
 
 Q99895
@@ -375,7 +375,7 @@ Logo: http://pfam.xfam.org/family/Ras#tabview=tab4
 
 # InterPro
 
-###  Para cada proteína, vaya a la sección “Detailed signature matches”. Registre los patro- nes/familias identificadas por InterPro para cada una de las secuencias. (PISTA: Si pasa el mouse sobre cada fila con información en esta sección, se expandirá una ventana con el nombre completo del motivo/familia y la base de datos de donde proviene.
+###  P20 Para cada proteína, vaya a la sección “Detailed signature matches”. Registre los patro- nes/familias identificadas por InterPro para cada una de las secuencias. (PISTA: Si pasa el mouse sobre cada fila con información en esta sección, se expandirá una ventana con el nombre completo del motivo/familia y la base de datos de donde proviene.
 
 _R_: Según la base de datos de interpro se encontró las siguientes características de las proteínas nombradas anteriormente:  
 3OTJ (Cationic Trypsin): Pertenece a la familia de chymotrypsin, Peptidase S1A
