@@ -583,7 +583,7 @@ _R_: Al aumentar la distancia de la secuencia del Cationic trypsin utilizando un
 
 + PAM de 40 (Rates: 4; Time: 10) se encontró que en este caso el porcentaje de identidad es de un 89.796% y posee 21 posiciones similares.
 
-+PAM de 50 (Rates: 5; Time 10) se encontró que en este caso el porcentaje de identidad es de 89.431% y la similaridad de posiciones es de 21.
++ PAM de 50 (Rates: 5; Time 10) se encontró que en este caso el porcentaje de identidad es de 89.431% y la similaridad de posiciones es de 21.
 
 + PAM de 60 (Rates: 6; Time 10)  se encontró que en este caso el porcentaje de     identidad es de un 37.109% y posee 16 posiciones similares
 
