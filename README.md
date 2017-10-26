@@ -272,11 +272,11 @@ _R_: Más que a “menudo”, sería siempre, ya que, las familias integran prot
 
 # Prosite
 
-P.12 Describa qué información le entrega esta pagina.
+### P.12 Describa qué información le entrega esta pagina.
 
 _R_: Prosite entrega información que describen dominios de proteínas, familias y sitios funcionales, así como patrones y perfiles asociados para identificarlos.
 
-P.13 Incorpore a su lista las características de las siguientes proteínas representantes de las familias.
+### P.13 Incorpore a su lista las características de las siguientes proteínas representantes de las familias.
 
 _R_: Glutathion-s transferases: 1AGS(cadena A): Posee 2 dominios GST_NTER y GST_CTER, estas proteinas están involucradas en la desintoxicación de compuestos xenobióticos y en la biosíntesis de metabolitos importantes. Existen dos superfamilias distintas de isoenzimas GST. La superfamilia más grande comprende enzimas dímeras citosólicas o solubles que están involucradas principalmente, pero no exclusivamente, en la biotransformación de xenobióticos y endobióticos tóxicos. La otra superfamilia está compuesta de proteínas microsómicas que participan principalmente en el metabolismo del ácido araquidónico. Las GST microsómicas, agrupadas juntas como una entidad separada, se denominan colectivamente MAPEG, designando proteínas asociadas a la membrana en el metabolismo de los eicosanoides y el glutatión  
 
@@ -311,61 +311,98 @@ La 1AGS pertenece a la familia de Glutathione S-transferase, conocidas anteriorm
 ### P.19 Informe el nombre de la familia, dominios y al menos una porción del logo que define cada una de las familias 
 _R_:
 
-Q99895
++ Q99895
+
 Family: Trypsin (PF00089)
+
 Dominio: Peptidase S1A
+
 [Logo](http://pfam.xfam.org/family/PF00089#tabview=tab4)
 
-P00766
++ P00766
+
 Family: Trypsin (PF00089)
+
 Dominio: Peptidase S1A
+
 [Logo](http://pfam.xfam.org/family/Trypsin#tabview=tab4)
 
-P00760
++ P00760
+
 Family: Trypsin (PF00089)
+
 Dominio: Petidase S1A
+
 [Logo](http://pfam.xfam.org/family/Trypsin_2#tabview=tab4)
-P00775
+
++ P00775
+
 Family: Trypsin (PF00089)
+
 Dominio: Petidase S1A
+
 SCOOP:	DUF1986 DUF316 Peptidase_S29 Peptidase_S32 Peptidase_S46 Peptidase_S7 Trypsin_2
+
 Similarity to PfamA using HHSearch:	DUF316 DUF1986 Trypsin_2
+
 [Logo](http://pfam.xfam.org/family/Trypsin#tabview=tab0)
 
-P00775
++ P00775
+
 Family: Trypsin (PF00089)
+
 Dominio: Petidase S1A
+
 [Logo](http://pfam.xfam.org/family/Trypsin#tabview=tab4)
 
-P00776
++ P00776
+
 Family: Trypsin (PF00089)
+
 Dominio: Petidase S1A
 [Logo](http://pfam.xfam.org/family/Trypsin#tabview=tab0)
-Family: Pro_Al_protease (PF02983) Loading page components (2 remaining)…
+
+Family: Pro_Al_protease (PF02983) 
+
 Dominio: None
+
 [Logo](http://pfam.xfam.org/family/Pro_Al_protease#tabview=tab4)
 
 
-P00782
++ P00782
+
 Family: Peptidase_S8 (PF00082)
+
 Dominio: Peptidase S8/S53 domain
+
 [Logo](http://pfam.xfam.org/family/Peptidase_S8#tabview=tab4)
 
 Family: Inhibitor_I9 (PF05922) Loading page components (1 remaining)…
+
 Dominio: None
+
 [Logo](http://pfam.xfam.org/family/Inhibitor_I9#tabview=tab4)
 
-P09210
++ P09210
+
 Family: GST_N (PF02798)
+
 Dominio: Glutathione S-transferase
+
 [Logo](http://pfam.xfam.org/family/GST_N#tabview=tab4)
+
 Family: GST_C_3 (PF14497)
+
 Dominio: Glutathione S-transferase, C-terminal
+
 [Logo](http://pfam.xfam.org/family/GST_C_3#tabview=tab4)
 
-P01112
++ P01112
+
 Family: Ras (PF00071)
+
 Dominio: Small GTPase superfamily
+
 [Logo](http://pfam.xfam.org/family/Ras#tabview=tab4)
 
 
@@ -374,56 +411,70 @@ Dominio: Small GTPase superfamily
 ###  P20 Para cada proteína, vaya a la sección “Detailed signature matches”. Registre los patro- nes/familias identificadas por InterPro para cada una de las secuencias. (PISTA: Si pasa el mouse sobre cada fila con información en esta sección, se expandirá una ventana con el nombre completo del motivo/familia y la base de datos de donde proviene.
 
 _R_: Según la base de datos de interpro se encontró las siguientes características de las proteínas nombradas anteriormente:  
-+ 3OTJ (Cationic Trypsin): Pertenece a la familia de chymotrypsin, Peptidase S1A
-y posee 1 dominio de tripsina. 
+
++ 3OTJ (Cationic Trypsin): Pertenece a la familia de chymotrypsin, Peptidase S1A y posee 1 dominio de tripsina. 
+
 + 1YPH (Chymotrypsinogen A): Es parte de la familia de chymotrypsin, Peptidase S1A y posee 1 dominio  de trypsine.
-+ 1SGT (Trypsin): Al igual que las proteínas anteriores, esta pertenece a la familia de las trypsin-like serine proteases y posee un dominio de serina
+
++ 1SGT (Trypsin): Al igual que las proteínas anteriores, esta pertenece a la familia de las trypsin-like serine proteases y posee un dominio de serina.
+
 + 2SGA Streptogrisin-A
-Streptogrisin pro domain: GENE 3D  tenemos:G3DSA:3.30.300.50
+Streptogrisin pro domain: GENE 3D  tenemos: G3DSA:3.30.300.50
+
 Peptidase S1 PA CLAN SUPERFAMILY  SF50494 (Trypsin-like serine proteases)
+
 Peptidase S1A, alpha-lytic prodomain  Pfam:PF02983 (Pro_Al_protease)
+
 Serine proteases, trypsin domain Pfam:PF00089 (Trypsin)
+
 + 4H4F (Quimiotripsina C)
-En Peptidase S1, PA clan tenemos: SUPERFAMILY  
-SSF50494 (Trypsin-like serine proteases)
-En Peptidase S1A, quimiotripsina familia tenemos: PRINTS  
-PR00722 (CHYMOTRYPSIN)
+
+En Peptidase S1, PA clan tenemos: SUPERFAMILY SSF50494 (Trypsin-like serine proteases)
+
+En Peptidase S1A, quimiotripsina familia tenemos: PRINTS PR00722 (CHYMOTRYPSIN)
+
 En la familia serina proteasas, en el dominio tripsina, tenemos: Cd00190 (Tryp_SPc) 
+
 CDD: PS50240(TRYPSIN_DOM) PROSITE profiles  
-PF00089 (Trypsin) Pfam  
-SM00020 (Trypsin_2) SMART  
+
+Pfam: PF00089 (Trypsin)   
+
+SMART:SM00020 (Trypsin_2) 
+
 + 1SBT Subtilisin BPN
+
 Peptidase S8 propeptide/proteinase inhibitor I9 superfamily
+
 GENE3D G3DSA:3.30.70.80 (G3DSA:3.30.70.80)
+
 Protease propeptides/proteinase inhibitor I9
+
 SUPERFAMILY SSF54897 (Protease propeptides/inhibitors)
+
 Peptidase S8/S53 domain superfamily
+
 GENE3D G3DSA:3.40.50.200 (G3DSA:3.40.50.200)
+
 SUPERFAMILY SSF52743 (Subtilisin-like)
+
 Peptidase S8, subtilisin-related
-PRINTS  
-PR00723 (SUBTILISIN)
-PRINTS  
-PR00723 (SUBTILISIN)
-PRINTS  
-PR00723 (SUBTILISIN)
+
+PRINTS: PR00723 (SUBTILISIN)
+
 Peptidase S8 propeptide/proteinase inhibitor I9
-Pfam  
-PF05922 (Inhibitor_I9) 
-Peptidase S8/S53 domain
-Pfam  
-PF00082 (Peptidase_S8)
-Subtilisin Carlsberg-like catalytic domai 
-CDD: cd07477 (Peptidases_S8_Subtilisin_subset)
-Peptidase S8, subtilisin, Asp-active site
-PROSITE patterns  
-PS00136 (SUBTILASE_ASP)
-Peptidase S8, subtilisin, His-active site
-PROSITE patterns  
-PS00137 (SUBTILASE_HIS)
-Peptidase S8, subtilisin, Ser-active site
-PROSITE patterns  
-PS00138 (SUBTILASE_SER)
+
+Pfam: PF05922 (Inhibitor_I9) Peptidase S8/S53 domain
+
+Pfam: PF00082 (Peptidase_S8) Subtilisin Carlsberg-like catalytic domain
+
+CDD: cd07477 (Peptidases_S8_Subtilisin_subset) Peptidase S8, subtilisin, Asp-active site
+
+PROSITE patterns: PS00136 (SUBTILASE_ASP) Peptidase S8, subtilisin, His-active site
+
+PROSITE patterns: PS00137 (SUBTILASE_HIS) Peptidase S8, subtilisin, Ser-active site
+
+
+PROSITE patterns: PS00138 (SUBTILASE_SER)
 
 ### P.21 La información obtenida para Pfam y Prosite desde InterPro, ¿corresponde con aquella obtenida por usted desde esas bases de datos directamente en los puntos anteriores?
 _R_:Si, ya que Interpro utiliza a estas bases de datos como herramientas para entregar un análisis detallado del ensayo. Es decir, mezcla la información sobre dominios y familias proteicas y otras bases de datos y realiza una biblioteca en base a la información curada disponible. Las bases de datos que le sirven de herramienta forman parte del interpro consotrium ( [Ver](https://www.ebi.ac.uk/interpro/about.html))
