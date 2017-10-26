@@ -35,8 +35,8 @@ _R:_
 
 ### P.3 Explique con sus palabras los conceptos de evolución convergente y divergente 
 _R_: 
-+ Evolución convergente:_ Este concepto alude a que organismos, que provienen de un ancestro diferentes, llegaron a una respuesta similar, evolutivamente, para poder sobrevivir en un ambiente en específico. 
-+ _ Evolución Divergente:_ En este caso, un conjunto de organismos de la misma especie, se separan y terminan en ambientes distintos, el cual, ejerce una presión evolutiva diferente, como resultado los organismos, aunque tengan el mismo origen, van adquiriendo mutaciones que les permite sobrevivir al ambiente en el que se encuentran. 
++ __Evolución convergente:__ Este concepto alude a que organismos, que provienen de un ancestro diferentes, llegaron a una respuesta similar, evolutivamente, para poder sobrevivir en un ambiente en específico. 
++ __Evolución Divergente:__ En este caso, un conjunto de organismos de la misma especie, se separan y terminan en ambientes distintos, el cual, ejerce una presión evolutiva diferente, como resultado los organismos, aunque tengan el mismo origen, van adquiriendo mutaciones que les permite sobrevivir al ambiente en el que se encuentran. 
 
 ### P.4 Investigue si hemoglobina, glutatión peroxidasa y cytochrome c son ejemplos de evolución convergente o divergente.
 _R_: Cada una proviene de una familia distinta y poseen función diferentes. Al realizar un alineamiento (en uniprot) de las 3 se obtiene que entre ellas existe una similitud del 1.293%. Con estos datos se puede concluir que es un ejemplo de evolución divergente, en la que ellas, probablemente, poseen un ancestro en común, pero muy distante, debido a que son abismalmente distintas.   
@@ -75,7 +75,7 @@ Se diferencian en la preferencia de escisión que tiene cada una.
 
 
 ### P.4 A partir de lo aprendido e incluyendo la información del organismo del cual provienen las proteínas estudiadas discuta sobre el proceso de evolución de las serine proteasas.
-_R_: A partir de la información que se ha aprendido se puede inferir que la gran mayoría de las proteínas pertenecientes a la familia de serin proteasas proviene de un ancestro en común, ya que, todas poseen una triada catalítica conservadacompuesta por un residuo de serina, histidina y aspartato.  
+_R_: A partir de la información que se ha aprendido se puede inferir que la gran mayoría de las proteínas pertenecientes a la familia de serin proteasas proviene de un ancestro en común, ya que, todas poseen una triada catalítica conservada compuesta por un residuo de serina, histidina y aspartato.  
 
 
 ## Uniprot
@@ -87,53 +87,70 @@ _R_: Uniprot es una base de datos correspondiente de secuencias de proteínas e 
 
 ### P.6  Describa cada una de sus proteínas. Utilice la tabla de descripción utilizada anteriormente. 
 _R_:
+
 + 4H4F
+
 Código uniprot: Q99895 (EC:3.4.21.2)
+
 Nombre: Chymotrypsin-C
+
 Organismo: Homo sapiens (Human)
+
 Función: Regula la activación y degradación de tripsinógenos y procarboxipeptidasas dirigiéndose a sitios de escisión específicos dentro de sus precursores de zimógeno. Tiene actividad proteasa tipo quimotripsina y actividad hipocalcémica.
+
 Gene: CTRC
+
 Secuencia aminoacidica: >sp|Q99895|CTRC_HUMAN Chymotrypsin-C OS=Homo sapiens GN=CTRC PE=1 SV=2
 MLGITVLAALLACASSCGVPSFPPNLSARVVGGEDARPHSWPWQISLQYLKNDTWRHTCG
 GTLIASNFVLTAAHCISNTRTYRVAVGKNNLEVEDEEGSLFVGVDTIHVHKRWNALLLRN
 DIALIKLAEHVELSDTIQVACLPEKDSLLPKDYPCYVTGWGRLWTNGPIADKLQQGLQPV
 VDHATCSRIDWWGFRVKKTMVCAGGDGVISACNGDSGGPLNCQLENGSWEVFGIVSFGSR
 RGCNTRKKPVVYTRVSAYIDWINEKMQL
-Dominios Descritos: PROSITE PS50240 DOMINIO TRYPSIN_DOM  PROSITE-ProRule:PRU00274;
-1 descrito Peptidase S1, posición 30 – 267, longitud 238 
-Residuos del sitio activo: Posee un sitio activo, que lo conforman 3 aa distintos con las siguientes posiciones 74,121,216
+
+Dominios Descritos: PROSITE PS50240 DOMINIO TRYPSIN_DOM  PROSITE-ProRule:PRU00274;1 descrito Peptidase S1, posición 30 – 267, longitud 238. Residuos del sitio activo: Posee un sitio activo, que lo conforman 3 aa distintos con las siguientes posiciones 74,121,216
+
 Pfam: PF00089. 1 hit 
+
 Supfam: SSF50494. 1 hit. 
 
  
 + 3OTJ
+
 Código uniprot: P00760
+
 Nombre: Cationic trypsin (EC:3.4.21.2)
+
 Organismo: Bos taurus (Bovine)
-Función:
-Actividad Catalítica
-cleavage Preferencial: Arg-|-Xaa, Lys-|-Xaa.
-Cofactori
-Ca2+Note: Binds 1 Ca2+ ion per subunit.
+
+Función: Posee Actividad Catalítica cleavage Preferencial: Arg-|-Xaa, Lys-|-Xaa.
+
+Cofactor: Ca2+Note: Binds 1 Ca2+ ion per subunit.
+
 Codigo PFAM: PF00089 Trypin. 1 Hit
+
 Secuencia aminoacidica: >sp|P00760|TRY1_BOVIN Cationic trypsin OS=Bos taurus PE=1 SV=3
 MKTFIFLALLGAAVAFPVDDDDKIVGGYTCGANTVPYQVSLNSGYHFCGGSLINSQWVVS
 AAHCYKSGIQVRLGEDNINVVEGNEQFISASKSIVHPSYNSNTLNNDIMLIKLKSAASLN
 SRVASISLPTSCASAGTQCLISGWGNTKSSGTSYPDVLKCLKAPILSDSSCKSAYPGQIT
 SNMFCAGYLEGGKDSCQGDSGGPVVCSGKLQGIVSWGSGCAQKNKPGVYTKVCNYVSWIK
 QTIASN
-Dominios Descritos: PROSITE-ProRule:PRU00274, 1 descrito Peptidase S1, posición 24-244, longitud 221
-Residuos del sitio activo: Posee un sitio activo,
- que está conformado por 3 aa. Residuos; 63,107,200
+
+Dominios Descritos: PROSITE-ProRule:PRU00274, 1 descrito Peptidase S1, posición 24-244, longitud 221. Residuos del sitio activo: Posee un sitio activo, que está conformado por 3 aa. Residuos; 63,107,200
+
 Pfam: PF00089. Trypsin. 1 hit. 
+
 Supfam: SSF50494. 1 hit. 
   
 + 1YPH (EC:3.4.21.1)
+
 Código uniprot: P00766
+
 Nombre: Chymotrypsinogen A
+
 Organismo: Bos taurus (Bovine)
-Función:  Actividad Catalitica
-Preferential cleavage: Tyr-|-Xaa, Trp-|-Xaa, Phe-|-Xaa, Leu-|-Xaa.
+
+Función:  Actividad Catalitica Preferential cleavage: Tyr-|-Xaa, Trp-|-Xaa, Phe-|-Xaa, Leu-|-Xaa.
+
 Secuencia aminoacidica:
 >sp|P00766|CTRA_BOVIN Chymotrypsinogen A OS=Bos taurus PE=1 SV=1
 CGVPAIQPVLSGLSRIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGV
@@ -141,8 +158,9 @@ TTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSA
 VCLPSASDDFAAGTTCVTTGWGLTRYTNANTPDRLQQASLPLLSNTNCKKYWGTKIKDAM
 ICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQ
 TLAAN
-Dominios Descritos: 1 descrito Peptidase S1, posición 24-244, longitud 221
-Residuos del sitio activo: Posee un 1 sitio activo  con 3 posiciones distintas;  57, 102, 195
+
+Dominios Descritos: 1 descrito Peptidase S1, posición 24-244, longitud 221. Residuos del sitio activo: Posee un 1 sitio activo  con 3 posiciones distintas;  57, 102, 195
+
 Pfam: PF00089. Trypsin. 1 hit. 
  
 Supfam: SSF50494. SSF50494. 1 hit. 
@@ -151,10 +169,13 @@ Supfam: SSF50494. SSF50494. 1 hit.
  
 + 1SGT
 Código uniprot:  P00775
+
 Nombre: Trypsin (EC:3.4.21.4)
+
 Organismo: Streptomyces griseus
-Función: Actividad Catalítica
-Preferential cleavage: Arg-|-Xaa, Lys-|-Xaa.
+
+Función: Actividad Catalítica Preferential cleavage: Arg-|-Xaa, Lys-|-Xaa.
+
 Secuencia aminoacidica:
 >sp|P00775|TRYP_STRGR Trypsin OS=Streptomyces griseus GN=sprT PE=1 SV=2
 MKHFLRALKRCSVAVATVAIAVVGLQPVTASAAPNPVVGGTRAAQGEFPFMVRLSMGCGG
@@ -162,16 +183,23 @@ ALYAQDIVLTAAHCVSGSGNNTSITATGGVVDLQSSSAVKVRSTKVLQAPGYNGTGKDWA
 LIKLAQPINQPTLKIATTTAYNQGTFTVAGWGANREGGSQQRYLLKANVPFVSDAACRSA
 YGNELVANEEICAGYPDTGGVDTCQGDSGGPMFRKDNADEWIQVGIVSWGYGCARPGYPG
 VYTEVSTFASAIASAARTL
-Dominios Descritos: 1 descrito Peptidase S1, posición 37-257, longitud 221 Residuos del sitio activo: Posee 1 sitio activo con 3 a.a.  Residuos;  73,118,208
+
+Dominios Descritos: 1 descrito Peptidase S1, posición 37-257, longitud 221 Residuos del sitio activo: Posee 1 sitio activo con 3 a.a. Residuos;  73,118,208
+
 Pfam: PF00089. Trypsin. 1 hit. 
+
 Supfam: SSF50494. SSF50494. 1 hit.
  
 + 2SGA: Código uniprot:  P00776
+
 Nombre: Streptogrisin-A (EC:3.4.21.80)
+
 Organismo: Streptomyces griseus
+
 Función: Tiene una especificidad primaria para aminoácidos alifáticos o aromáticos grandes.
-Actividad Catalítica 
-Hidrólisis de proteínas con especificidad similar a la quimotripsina.
+
+Actividad Catalítica. Hidrólisis de proteínas con especificidad similar a la quimotripsina.
+
 Secuencia aminoacídica:
 >sp|P00776|PRTA_STRGR Streptogrisin-A OS=Streptomyces griseus GN=sprA PE=1 SV=2
 MTFKRFSPLSSTSRYARLLAVASGLVAAAALATPSAVAAPEAESKATVSQLADASSAILA
@@ -179,27 +207,37 @@ ADVAGTAWYTEASTGKIVLTADSTVSKAELAKVSNALAGSKAKLTVKRAEGKFTPLIAGG
 EAITTGGSRCSLGFNVSVNGVAHALTAGHCTNISASWSIGTRTGTSFPNNDYGIIRHSNP
 AAADGRVYLYNGSYQDITTAGNAFVGQAVQRSGSTTGLRSGSVTGLNATVNYGSSGIVYG
 MIQTNVCAEPGDSGGSLFAGSTALGLTSGGSGNCRTGGTTFYQPVTEALSAYGATVL
-Dominios Descritos: No presenta dominios reportados
-Residuos del sitio activo: Posee 1 sitio activo compuesto por 3 residuos ;  Residuos 149,171,253
+
+Dominios Descritos: No presenta dominios reportados. Residuos del sitio activo: Posee 1 sitio activo compuesto por 3 residuos ;  Residuos 149,171,253
+
 Pfam: PF02983. Pro_Al_protease. 1 hit. PF00089. Trypsin. 1 hit. 
+
 Supfam: SSF50494. SSF50494. 1 hit. 
  
  
 + 1SBT
+
 Código uniprot:  P00782
+
 Nombre: Subtilisin BPN'(EC:3.4.21.62)
+
 Organismo: Bacillus amyloliquefaciens (Bacillus velezensis)
+
 Función: La subtilisina es una serina proteasa alcalina extracelular que cataliza la hidrólisis de proteínas y péptidos amidas. Tiene una alta especificidad de sustrato para la fibrina.
-Miscellaneous
-La secreción de subtilisina se asocia con el inicio de la esporulación, y muchas mutaciones que bloquean la esporulación en etapas tempranas afectan los niveles de expresión de la subtilisina. Sin embargo, la subtilisina no es necesaria para una esporulación normal.
-Catalytic activityi
-Hidrólisis de proteínas con amplia especificidad para enlaces peptídicos, y una preferencia por un gran residuo no cargado en P1. Hidroliza las amidas peptídicas.
-Cofactori
-Ca2+Note: Binds 2 calcium ions per subunit.
-Enzyme regulationi
-Completamente inhibido por el fluoruro de fenilmetilsulfonilo (PMSF) y parcialmente inhibido por el hidrocloruro de benzamidina, leupeptina y pepstatina A.
-pH dependence: pH óptimo es 9.0.
+
+Miscellaneous :La secreción de subtilisina se asocia con el inicio de la esporulación, y muchas mutaciones que bloquean la esporulación en etapas tempranas afectan los niveles de expresión de la subtilisina. Sin embargo, la subtilisina no es necesaria para una esporulación normal.
+
+Catalytic activity: Hidrólisis de proteínas con amplia especificidad para enlaces peptídicos, y una preferencia por un gran residuo no cargado en P1. Hidroliza las amidas peptídicas.
+Cofactor: Ca2+Note: Binds 2 calcium ions per subunit.
+
+Enzyme regulation: Completamente inhibido por el fluoruro de fenilmetilsulfonilo (PMSF) y parcialmente inhibido por el hidrocloruro de benzamidina, leupeptina y pepstatina A.
+
+pH dependence: 
+
+pH óptimo es 9.0.
+
 Temperature dependence: La temperatura óptima es de 48 grados Celsius
+
 Secuencia aminoacidica:
 >sp|P00782|SUBT_BACAM Subtilisin BPN' OS=Bacillus amyloliquefaciens GN=apr PE=1 SV=1
 MRGKKVWISLLFALALIFTMAFGSTSSAQAAGKSNGEKKYIVGFKQTMSTMSAAKKKDVI
@@ -209,35 +247,48 @@ ALNNSIGVLGVAPSASLYAVKVLGADGSGQYSWIINGIEWAIANNMDVINMSLGGPSGSA
 ALKAAVDKAVASGVVVVAAAGNEGTSGSSSTVGYPGKYPSVIAVGAVDSSNQRASFSSVG
 PELDVMAPGVSIQSTLPGNKYGAYNGTSMASPHVAGAAALILSKHPNWTNTQVRSSLENT
 TTKLGDSFYYGKGLINVQAAAQ
+
 Dominios Descritos: 1 dominio descrito, posición 134-380, Peptidase S8, longitud 247 Residuos del sitio activo: Posee 1 sitio activo compuesto por 3 residuos;  139,171,328
+
 Pfam: PF05922. Inhibitor_I9. 1 hit. PF00082. Peptidase_S8. 1 hit. 
+
 Supfam: SSF52743. SSF52743. 1 hit. SSF54897. SSF54897. 1 hit. 
  
  
 + 1AGS
+
 CODIGO UNIPROT: P09210
+
 Nombre: Glutathione S-transferase A2(EC:2.5.1.18)
+
 Organismo: Homo sapiens (Human)
+
 Secuencia aminoacidica
 >sp|P09210|GSTA2_HUMAN Glutathione S-transferase A2 OS=Homo sapiens GN=GSTA2 PE=1 SV=4
 MAEKPKLHYSNIRGRMESIRWLLAAAGVEFEEKFIKSAEDLDKLRNDGYLMFQQVPMVEI
 DGMKLVQTRAILNYIASKYNLYGKDIKEKALIDMYIEGIADLGEMILLLPFSQPEEQDAK
 LALIQEKTKNRYFPAFEKVLKSHGQDYLVGNKLSRADIHLVELLYYVEELDSSLISSFPL
 LKALKTRISNLPTVKKFLQPGSPRKPPMDEKSLEESRKIFRF
+
 Función: Conjugación de glutatión reducido a una gran cantidad de electrófilos hidrofóbicos exógenos y endógenos.
-Catalytic activityi
-RX + glutathione = HX + R-S-glutathione.
+
+Catalytic activityi: RX + glutathione = HX + R-S-glutathione.
  
 Dominios: 2 dominios; Posicion 3-83, GST N-terminal, LONGITUD 81; Posicion 85 – 207 GST C-terminal, longitud 123
                                                                                          	
  
 + 1AGP
+
 Codigo Uniprot:  P01112
+
 Nombre: GTPase HRas (EC no found)
+
 Organismo: Homo sapiens (Human)
+
 Funcion: Involucrado en la activación de la transducción de señal de proteína Ras (PubMed:22821884). Las proteínas Ras se unen a GDP / GTP y poseen actividad de GTPasa intrínseca (PubMed:12740440, PubMed:14500341, PubMed:9020151).
-Enzyme regulationi
-Alterna entre una forma inactiva vinculada al PIB y una forma activa vinculada a GTP. Activado por un factor de intercambio de nucleótidos de guanina (GEF) e inactivado por una proteína activadora de GTPasa (GAP).
+
+Enzyme regulation: Alterna entre una forma inactiva vinculada al PIB y una forma activa vinculada a GTP. Activado por un factor de intercambio de nucleótidos de guanina (GEF) e inactivado por una proteína activadora de GTPasa (GAP).
+
 Secuencia aminoacidica
 >sp|P01112|RASH_HUMAN GTPase HRas OS=Homo sapiens GN=HRAS PE=1 SV=1
 MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAG
